@@ -10,15 +10,15 @@ The library supports only 8bit data configuration. as such, it must be wired acc
 Please connect the following terminals for succesful use:
 LCD Module | Arduino Terminal
 \-----------------------------
-VSS        | LOW
-VDD        | HIGH
-V0         | VARIABLE_VOLTAGE  <-- Connect through a 10kOhm Potentiometer
-RS         | 10
-RW         | 11
-E          | 12
-D0-D7      | 2-9
-A          | HIGH
-K          | LOW
+VSS        | LOW\
+VDD        | HIGH\
+V0         | VARIABLE_VOLTAGE  <-- Connect through a 10kOhm Potentiometer\
+RS         | 10\
+RW         | 11\
+E          | 12\
+D0-D7      | 2-9\
+A          | HIGH\
+K          | LOW\
 
 For further information refer to the datasheet or the Patrick Hood Daniel's youtube videos on the LCD Module
 
