@@ -19,7 +19,6 @@ E          | 12\
 D0-D7      | 2-9\
 A          | HIGH\
 K          | LOW\
-
 For further information refer to the datasheet or the Patrick Hood Daniel's youtube videos on the LCD Module
 
 
