@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCC7ifdmN7ebFo-eXBUZkeiw
 The library supports only 8bit data configuration. as such, it must be wired accordingly.
 Please connect the following terminals for succesful use:\
 LCD Module | Arduino Terminal\
-\-----------------------------
+\-----------------------------\
 VSS        | LOW\
 VDD        | HIGH\
 V0         | VARIABLE_VOLTAGE  <-- Connect through a 10kOhm Potentiometer\
