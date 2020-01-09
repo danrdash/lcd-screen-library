@@ -7,8 +7,8 @@ https://www.youtube.com/channel/UCC7ifdmN7ebFo-eXBUZkeiw
 ## Wire Configuration
 
 The library supports only 8bit data configuration. as such, it must be wired accordingly.
-Please connect the following terminals for succesful use:
-LCD Module | Arduino Terminal
+Please connect the following terminals for succesful use:\
+LCD Module | Arduino Terminal\
 \-----------------------------
 VSS        | LOW\
 VDD        | HIGH\
