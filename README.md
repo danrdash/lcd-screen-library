@@ -4,6 +4,9 @@ I followed Patrick Hood Daniel's great videos on the LCD Module, and changed it 
 Link to his channel:
 https://www.youtube.com/channel/UCC7ifdmN7ebFo-eXBUZkeiw
 
+## Supported Functions
+Send_Command(), Send_Character(), Set_Cursor(), Check_Busy(), Read_DDRAM(), Send_String()
+
 ## Wire Configuration
 
 The library supports only 8bit data configuration. as such, it must be wired accordingly.
